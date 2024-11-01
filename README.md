@@ -52,8 +52,11 @@ Analyse descendante du marché aux Etats-Unis:
 ## Conclusions et Recommandations
 ![image](https://github.com/user-attachments/assets/6ba5cab2-561a-4ae2-93d8-a33f7650d5e7)
 
+## Difficultés rencontrées
+1. Extraction du millésime à partir de la dénomination du vin. Il a fallu plusieurs aller-retours entre le notebook et le Power BI, pour trouver une expression regex qui semble marcher !
+2. Problème avec l'utilisation des emplacements géographiques dans Power BI. En effet, la région "Southwest France" était placée au Cameroun et non pas en France !
 
-## Merci !
+## Merci!
 :wine_glass:
 :purple_heart:
 :heart:
