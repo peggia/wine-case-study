@@ -64,6 +64,9 @@ Analyse descendante du marché aux Etats-Unis:
 :heart:
 ![image](https://github.com/user-attachments/assets/9960eda5-a7ed-4a92-9bd7-2e9bccef6a12)
 
+source de l'image: https://www.carnetdevins.fr/guide-des-regions/
+
+
 
 
 
