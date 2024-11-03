@@ -37,13 +37,15 @@ Analyse descendante du marché aux Etats-Unis:
 1. Tous les vins aux USA
 ![image](https://github.com/user-attachments/assets/b8025fa6-4383-40bd-b4a9-02706b2bfc7b)
 
-2. Les Vins Français aux USA
-![image](https://github.com/user-attachments/assets/b028e4a2-a64f-46e5-a764-af5b35598eb3)
+2. Les Vins Français vendus aux USA
+![image](https://github.com/user-attachments/assets/07f0f7b4-4a39-44a9-a95e-fd32f77a05d4)
 
-3. Les Vins de Bourgogne aux USA
+* Notez que toutes les régions ne sont pas affichées. Il manque le Beajoulais, Bordeaux et le Sud-ouest (voir section Difficultés rencontrées).
+  
+3. Les Vins de Bourgogne vendus aux USA
 ![image](https://github.com/user-attachments/assets/ff3f8f46-7e9d-44d6-bdb6-63867d205ff7)
 
-4. Les Pinots Noirs aux USA
+4. Les Pinots Noirs vendus aux USA
 ![image](https://github.com/user-attachments/assets/65594c0d-416a-4790-ba40-a0c85b8623b1)
 
 ## Discussions
@@ -54,12 +56,14 @@ Analyse descendante du marché aux Etats-Unis:
 
 ## Difficultés rencontrées
 1. Extraction du millésime à partir de la dénomination du vin. Il a fallu plusieurs aller-retours entre le notebook et le Power BI, pour trouver une expression regex qui semble marcher !
-2. Problème avec l'utilisation des emplacements géographiques dans Power BI. En effet, la région "Southwest France" était placée au Cameroun et non pas en France !
+2. Problème avec l'utilisation des emplacements géographiques dans Power BI. En effet, la région "Southwest France" était placée au Cameroun et non pas en France ! Aussi les vins de Bordeaux et du Beajoulais ne sont pas nonplus affichés sur la carte de France (Les noms ne sont pas considérés comme de "provinces" par Power BI peut etre ?). Pour résoudre ce problème il faudrait peut-etre se baser sur des cordonnées (latitude, longitude), en ajoutant une colonne supplémentaire ?
 
 ## Merci!
 :wine_glass:
 :purple_heart:
 :heart:
+![image](https://github.com/user-attachments/assets/9960eda5-a7ed-4a92-9bd7-2e9bccef6a12)
+
 
 
 
