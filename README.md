@@ -11,7 +11,8 @@ Etude de cas effectué lors du passage de la certification Data Analyste du 14 a
 * Jupyter notebook pour le prétraitement et l'analyse exploratoire du jeu de données
 * Ficher power BI contenant le Dashboard final, après analyse et sélection des indicateurs pertinents
 
-Note: Pour utiliser le fichier PowerBI, après ouverture, Dans Acceuil, choisir menu "Transformer les données" puis "paramètres de la source des données" puis "changer la source", et selectionner le fichier df_wine en local dnas votre ordinateur.
+Note: Pour utiliser le fichier PowerBI, après ouverture, Dans le menu Accueil, choisir l'option "Transformer les données" puis "paramètres de la source des données" puis "changer la source", et selectionner le fichier df_wine en local dnas votre ordinateur.
+
 ![image](https://github.com/user-attachments/assets/fd74b950-f7a4-4fc7-93da-1f3baa2e3459)
 
 ## Analyse exploratoire et préparation des données
